@@ -1,3 +1,8 @@
+/*
+ * Calculates the net salary after tax, medication, maternity, and social security deductions.
+ * Demonstrates use of pointer-based parameter passing and modular functions.
+ */
+
 #include <stdio.h>
 
 float calcTax(float *gross) {

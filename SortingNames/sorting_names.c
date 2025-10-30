@@ -1,3 +1,8 @@
+/*
+ * Sorts a list of names in ascending or descending order using bubble sort.
+ * Demonstrates function pointers with comparator functions.
+ */
+
 #include <stdio.h>
 #include <string.h>
 
